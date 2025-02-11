@@ -1,0 +1,2 @@
+speed=3<newline#>strx=100<newline#>stry=320<newline#>advanced<newline#>text=我宣布个事！<newline#>colour=0<newline#>shake=2<newline#>text= 
+我他妈有颜色了！<newline#>stop<newline#>end
