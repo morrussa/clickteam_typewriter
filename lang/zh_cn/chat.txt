@@ -1,0 +1,4 @@
+speed=3<newline#>strx=100<newline#>stry=320<newline#>advanced<newline#>text=我宣布个事！<newline#>colour=0<newline#>shake=2<newline#>text= 
+我他妈有颜色了！<newline#>stop<newline#>end
+<newchat#>speed=3<newline#>text=哎我操nknk怎么这么坏
+就是就是小辫子酱fufu这么贵<newline#>stop<newline#>end
