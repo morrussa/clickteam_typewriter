@@ -1,0 +1,6 @@
+sac是一种特殊的标识，它实际上代表了stop<nl#>clear，这个步骤会在编译时完成。
+
+hexcolour=（16进制颜色）
+rgbcolour=（r,g,b）
+这两种颜色会在编译时变为colour=（10进制颜色）
+

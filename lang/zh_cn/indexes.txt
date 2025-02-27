@@ -1,0 +1,7 @@
+@placeholder
+-1=the frist one cannot be read
+@test2
+1=怎么写对话脚本？
+2=小辫子酱玩偶怎么这么贵？
+3=结束。
+@test3
